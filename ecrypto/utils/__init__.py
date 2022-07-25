@@ -1,2 +1,2 @@
-from generate import generate_keys
+from .generate import generate_keys
 

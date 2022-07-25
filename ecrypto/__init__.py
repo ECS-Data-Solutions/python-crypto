@@ -1,3 +1,3 @@
-from crypto import Crypto
+from .crypto import Crypto
 
 __version__ = "0.1.0"
